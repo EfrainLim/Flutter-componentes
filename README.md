@@ -1,20 +1,15 @@
-# components
+<h2 align="center">Componentes Flutter</h2>
+<h3 align="center">A passionate web developer, Mobile,UI/UX Designer from Perú</h3>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h3 align="left">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_1.png" alt="tailwind" width="33%" height="33%"/>
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_2.png" alt="tailwind" width="33%" height="33%"/>
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_3.png" alt="tailwind" width="33%" height="33%"/>
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_4.png" alt="tailwind" width="33%" height="33%"/>
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_5.png" alt="tailwind" width="33%" height="33%"/>
+<img src="https://github.com/EfrainLim/Flutter-componentes/blob/main/screenhots/Screenshot_6.png" alt="tailwind" width="33%" height="33%"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Componentes-flutter" 
-"# flutter-componentes" 
-"# Flutter-componentes" 
-"# Flutter-componentes" 
+</p>
